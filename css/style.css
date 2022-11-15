@@ -6,6 +6,10 @@ body{
     padding: 1%;
 }
 
+p{
+    text-align: justify;
+}
+
 nav, ul{
     box-sizing: border-box;
     color: #06425C;
@@ -57,11 +61,13 @@ a:hover{
 }
 
 h1{
+    text-align: center;
     color: #FFFFFF;
     background-color: #7B68EE;
 }
 
 h2{
+    text-align: center;
     background-color: #C3FDB8;
 }
 
