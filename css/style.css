@@ -65,7 +65,7 @@ a:hover{
 }
 
 h1{
-    text-align: center;
+    text-align: center !important;
     color: #FFFFFF;
     background-color: #7B68EE;
 }
