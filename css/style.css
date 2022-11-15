@@ -41,6 +41,10 @@ nav a:active{
     background-color: #A52A2A;
 }
 
+ul{
+    text-align: center;
+}
+
 ul li{
     box-sizing: border-box;
     display: inline-block;
