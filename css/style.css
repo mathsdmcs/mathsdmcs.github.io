@@ -45,7 +45,6 @@ ul li{
     box-sizing: border-box;
     display: inline-block;
     line-height: 30px;
-    text-size: 50px;
     height: 50px;
     color: #FFFFFF;
     margin: 1% 4% 1% 0;
@@ -54,6 +53,7 @@ ul li{
 }
 
 ul>li>a{
+    text-size: 50px;
     text-decoration: none;
 }
 
