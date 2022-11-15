@@ -53,7 +53,7 @@ ul li{
 }
 
 ul>li>a{
-    text-size: 50px;
+    text-size-adjust: 3em;
     text-decoration: none;
 }
 
